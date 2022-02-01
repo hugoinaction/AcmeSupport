@@ -1,4 +1,4 @@
-Acme Common
-============
+Acme Support
+===========
 
-Common code between Acme Theme and Acme Corporation website. To be used in Chapter 8 of HugoInAction.
+This repository contains support files for Hugo In Action chapters 8-13, imported using Hugo Modules in chapter 8. The go.mod file is deliberately absent from this repository to showcase mounting of Hugo Modules in the target folder.
